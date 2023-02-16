@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main	- Print a line code with printf
  *
  * Return:0
