@@ -1,7 +1,8 @@
 #include <stdio.h>
-/*main
- * prints exactly "Programming is like building a multilingual puzzle
- * RETURN: 0
+/*
+ * main - print a line of code with puts
+ * 
+ * Return: 0
 */ 
 
 int main(void)
