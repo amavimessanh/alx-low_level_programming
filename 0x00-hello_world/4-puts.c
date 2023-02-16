@@ -1,9 +1,9 @@
 #include <stdio.h>
-/*
- * main	-prints exactly this: Programming is like building a multilingual puzzle
+/**
+ * main	- Prints a line of code with puts
  *
- *  Return:0	
-*/
+ * Return:0
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
