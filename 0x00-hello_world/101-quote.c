@@ -2,7 +2,7 @@
 /**
  * main - prints exactly and that piece of art is useful
  *  -  Dora Korpar, 2015-10-19 in c
- * 
+ *
  * Return:1
 */
 int main(void)
