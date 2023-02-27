@@ -4,16 +4,16 @@
  * _puts - prints a string
  * @str:  string
  *
- * 
+ * Return: the string
  */
 void _puts(char *str)
 {
-	int i = 0;
+	int c = 0;
 
-	while (str[i] != '\0')
+	while (str[c] != '\0')
 	{
-		_putchar(str[i]);
-		i++;
+		_putchar(str[c]);
+		c++;
 	}
 	_putchar('\n');
 }
