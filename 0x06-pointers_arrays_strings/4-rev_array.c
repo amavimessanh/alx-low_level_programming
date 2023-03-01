@@ -6,7 +6,7 @@
  * @a: input array
  * @n: portions array
  *
- */ 
+ */
 void reverse_array(int *a, int n)
 {
 	int i, k;
