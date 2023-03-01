@@ -3,7 +3,7 @@
 /**
  * _strncpy - a function that copies a string
  * @dest: output dest
- * @src: input source
+ * @src: input src
  * @n: input number of char
  *
  * Return: dest
