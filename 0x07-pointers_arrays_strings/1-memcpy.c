@@ -5,9 +5,9 @@
  *
  * @dest: char pointer
  * @src: char pointer
- * @n: unsigned int
+ * @n: byte
  *
- *Return: dest
+ * Return: dest
  */
 
 char *_memcpy(char *dest, char *src, unsigned int n)
