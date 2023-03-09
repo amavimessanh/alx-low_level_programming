@@ -4,7 +4,7 @@
  * sqrt2 - found saquare
  * @a: integer
  * @b: integer
- * 
+ *
  * Return: value square.
  *
  */
