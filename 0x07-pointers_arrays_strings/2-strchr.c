@@ -3,7 +3,7 @@
 /**
  * _strchr - set memory function
  *
- * @s: pointer 
+ * @s: pointer
  * @c: char
  *
  * Return: a pointer to the first occurrence of the character
